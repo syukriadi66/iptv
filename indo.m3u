@@ -106,13 +106,13 @@ http://vids.rodja.tv:1935/live/rodja/01.m3u8
 http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8A52FC6E0F67D9D051DDAA3CEA41A80C1898B30F&profile=pass
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D24596A14EAFC78BC705583C9FD&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Discovery Channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2468824040BC8683924848E59A883DAD089DC9F5&profile=pass
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B40097870241BD99B4D3EBD89BF&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",History Channel
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=555D551ABB517158A7CCCDAEB857BCB63371F8D3&profile=pass
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Nat Geo
 https://vcdnjt.useetv.com:443/joss/15/natgeo/chunklist_w1673983406_b494100_sleng_177560.m3u8
@@ -265,19 +265,19 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=B3C3483193A54FB3253DF13160864B4FDD7A571D&profile=pass
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=4329B3E8AA7F378A734FC2AAE9B74761528954FC&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=DC4AA56F081DDD00A3DB9F2812B47B42C8ADF205&profile=pass
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=DF89512A955211D2152BD7CAC58362C4A2463787&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1CB354DCA7126988AA8CD5EE1261EDD9425A1B17&profile=pass
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9BE85B9E02EAA73CC172A985FA42CC45DE314D57&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=97AADFDA89A09EA86A1F52A8B52CEC2B2FDFA736&profile=pass
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=6B91E9D1E19FBB0CC17A0C52A388098B8EE87D81&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=1E1AB067641A6FF2DA8ACB0AFFAFD9392B9E2413&profile=pass
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=8A4F5324EC2E07802B61676692E909A1065152FC&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",GALAXY
 https://vcdnjt.useetv.com:443/joss/15/galaxy/chunklist_w300453741_b684100_sleng_177560.m3u8?enc=l6rpqYqWLQ3V69S92YsbZg&exp=1587471181
