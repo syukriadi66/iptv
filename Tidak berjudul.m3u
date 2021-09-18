@@ -15,6 +15,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="@RIYANCODAY" tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="@RIYANCODAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" , MNC
+http://cdn-livetv-studio.metube.id/mnctv_480/index.m3u8
 #EXTINF:-1 group-title="@RIYANCODAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtn67myVr_jb4DjGGVssqB2BN7Fy3K6Y0tA&usqp=CAU" , INEWS
 http://cdn-livetv-studio.metube.id/inewstv_480/index.m3u8
 
