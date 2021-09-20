@@ -133,7 +133,9 @@ http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: Nat Geo People HD" tvg-logo="http://logo.sltv.site/logo/POLONIA/NATGEOPEOPLEHD.png" group-title="KNOWLEDGE",Nat Geo People HD
 http://hbox.cdnss.me:80/live/bestcs/bestcs/4983.m3u8
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="KNOWLEDGE",Local Now : People TV
-https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+https://lnc-people-tv.tubi.video/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="KNOWLEDGE",Local Now : People TV HD
+https://peopletv-oo.akamaized.net/playlist720p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/H2EAcw8.png" group-title="KNOWLEDGE",People are awesome UN
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/1200.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/H2EAcw8.png" group-title="KNOWLEDGE",People are awesome US
