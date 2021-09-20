@@ -238,19 +238,20 @@ http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
 http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" , Bein 8
 http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" , (SPORT) Bein Sport English 01
+#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="SPORT" ,Bein Sport English 01
 http://hbox.cdnss.me:80/live/bestcs/bestcs/7946.m3u8
-#EXTINF:-1 tvg-logo="http://smarters.ddns.net:8000/images/851ddf5058cf22df63d3344ad89919cf.png" , (SPORT) Bein Sport English 01*
+#EXTINF:-1 tvg-logo="http://smarters.ddns.net:8000/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title="SPORT" ,Bein Sport English 01*
 http://hbox.cdnss.me:80/live/bestcs/bestcs/7947.m3u8
-#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" , (SPORT) Bein Sport English 02
+#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title="SPORT" , Bein Sport English 02
 http://hbox.cdnss.me:80/live/bestcs/bestcs/7948.m3u8
-#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" , (SPORT) Bein Sport English 02*
+#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title="SPORT" ,Bein Sport English 02*
 http://hbox.cdnss.me:80/live/bestcs/bestcs/7949.m3u8
-#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" , (SPORT) Bein Sport English 03
+#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title="SPORT" , Bein Sport English 03
 http://hbox.cdnss.me:80/live/bestcs/bestcs/7950.m3u8
-#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" , (SPORT) Bein Sport English 03*
+#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title="SPORT" , Bein Sport English 03*
 http://hbox.cdnss.me:80/live/bestcs/bestcs/7951.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ae/SFR_Sport_1_logo_2016.png" , (Sport) RMC Sport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ae/SFR_Sport_1_logo_2016.png"  group-title="SPORT" , RMC Sport 1
 http://hbox.cdnss.me:80/live/bestcs/bestcs/3072.m3u8
-#EXTINF:-1 tvg-logo="http://www.ffbb.com/sites/default/files/sfr-sport-2-300x200-1.jpg" , (Sport) RMC Sport 2
+#EXTINF:-1 tvg-logo="http://www.ffbb.com/sites/default/files/sfr-sport-2-300x200-1.jpg"  group-title="SPORT" , RMC Sport 2
 http://hbox.cdnss.me:80/live/bestcs/bestcs/3073.m3u8
+
