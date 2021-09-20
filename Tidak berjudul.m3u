@@ -64,10 +64,10 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="RELIGI",Al Sunnah (Medina)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="MOVIES" ,BLUe ANT EXTREME
-http://210.210.155.35/session/8ffb9b36-1a22-11ec-a39b-9c788825ecf5/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="MOVIES" ,Blue ANT EXTREME
+http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTINF:-1 group-title="MOVIES" ,Blue Ant Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+http://210.210.155.35:80/dr9445/h/h16/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" , Celestial Movies
 http://210.210.155.35:80/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/us/HBO.us.png" , HBO Malaysia
