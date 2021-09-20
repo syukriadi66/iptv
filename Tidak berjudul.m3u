@@ -62,7 +62,10 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeunk8zsXxPiqk_9Ck04QfqOuPfnWWlKxifg&usqp=CAU" , Tv Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="RELIGI",Al Quran Al Kareem (Mecca)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="RELIGI",Al Sunnah (Medina)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="MOVIES" ,BLU ANT EXTREME
 http://210.210.155.35:80/h/h15/01.m3u8
 #EXTINF:-1 group-title="MOVIES" ,Blue Ant Entertainment
@@ -85,8 +88,32 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" , K+
 http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg" , Kpop TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU" group-title="MOVIES",MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="MOVIES",MovieSphere : HD
+https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/SQInLji.png" group-title="MOVIES",My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="MOVIES",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="MOVIES",24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MOVIES" ,FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MOVIES",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MOVIES" ,FOX Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="MOVIES" ,KIX
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="MOVIES" ,Fear This
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" ,Fear This Classics
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" ,Fear This Sci-Fi
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="MOVIES",New K-Movies
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" , KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" , KBS II
