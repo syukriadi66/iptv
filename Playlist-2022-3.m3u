@@ -100,6 +100,8 @@ https://cdn12jtedge.useetv.com/dass/130/insert_dash/manifest_wuseetv.mpd?encp=IW
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" , My Kids _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Live",Boomerang
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" , Chinese Drama _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" , CGTN Documentary _USEETV
@@ -180,6 +182,10 @@ http://ip2121.com:8081/live/hbo/playlist.m3u8
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/03/6qQ1dl.jpg" , KIX HD
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xing Kong China" tvg-logo="" group-title="Live",Xing Kong China
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/55
+#EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="" group-title="Live",Channel V
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/56
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_oyTqBC1W2UllytAn-JiG4brqZk0u0uiUPg&usqp=CAU" , Zee Cinema
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Live",Star Sports 1 HD
@@ -212,8 +218,6 @@ https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4q
 https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6G0eH6yM1Kg/W4lYfDk9hLI/AAAAAAAAKOc/0ELqkpHSE_YKwzM3qD7NCqS1vb2wGT86wCLcBGAs/s1600/sigla-look-sport_tb900.jpg" , LookSport 3
 https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
-#EXTINF:-1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" , TRUE PREMIER HD 1
-https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" , ESPN 1
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ad_sports.jpg" , ABU DHABI SPORT 1
